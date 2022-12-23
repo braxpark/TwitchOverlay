@@ -8,3 +8,9 @@ For personal use, this project needs some secrets to work correctly. The exact l
 
 This *although confusing* uses a fullstack stack, the T3 stack. This was done, because why not? The majority of the actual content code can be found in the src/pages/main directory.
 
+
+## Demo
+Demo of notification pop-up and sound.
+
+https://user-images.githubusercontent.com/78038984/209303063-07fc3771-aa90-48d2-87d8-98b0b2efd110.mp4
+
