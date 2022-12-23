@@ -1,0 +1,28 @@
+
+
+/*
+webcam dims are 390 x 220
+*/
+.webcam-border {
+    width: 418px;
+    height: 244px;
+    float: right;
+    background-color: transparent;
+    margin-right: 17px;
+    margin-top: 0px;
+    border: 16px solid rgb(105, 0, 0);
+    border-radius: 1em;
+}
+
+.followers-panel {
+    color: white;
+    border-radius: 1em;
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #363636;
+    width: 410px;
+    margin-top: calc(100vh - 32px - 200px - 95px);
+}
